@@ -1,7 +1,7 @@
 /*
 A C++ program of a bank management system
-Author: Waiguru Ian Muchiri
-Reg No:BSCIT-05-0096/2024
+Author: Edel Serena
+Reg No:BSCIT-05-0068/2024
 Date:25/02/2025
 */
 #include <iostream>
